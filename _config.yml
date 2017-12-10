@@ -1,5 +1,5 @@
 # Site settings
-title: Aksesboentu
+-title: Aksesboentu
 email: Egiilhamelnusa1@gmail.com
 url: https://egiilhamelnusa.github.io
 description: "Pada sebuah titik, semua buntu akan ada jalannya"
@@ -13,19 +13,15 @@ color:
 footer: Aksesboentu
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  title:
+social:- title:
     url: https://twitter.com/Egi_Elnusa
-  title: facebook
+  -title: facebook
    url: https://www.facebook.com/
-  title: github
+  -title: github
     url: https://egiilhamelnusa.github.io/
-  title: Kampus-Belajar
+  -title: Kampus-Belajar
     url: http://stackoverflow.com/questions/tagged/jekyll
-  title: Program studi
+  -title: Program studi
     url: https://sif.uin-suska.ac.id/
   
 
-# Build settings
-markdown: kramdown
-permalink: pretty
