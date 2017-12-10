@@ -18,12 +18,13 @@ social:
     url: https://twitter.com/Egi_Elnusa
   - title: facebook
     url: https://www.facebook.com/profile.php?id=100001465447692
+   - title: github
+    url: https://egiilhamelnusa.github.io/
   - title: Kampus-Belajar
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: Programstudi
     url: https://sif.uin-suska.ac.id/
-  - title: github
-    url: https://egiilhamelnusa.github.io/
+  
 
 # Build settings
 markdown: kramdown
