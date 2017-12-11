@@ -1,8 +1,8 @@
 # Site settings
-title: Aksesboentu
-email: egiilhamelnusa1@gmail.com
-url: https://egiilhamelnusa.github.io
-description: "Pada setiap kebuntuan, akan ada waktunya kita menemukan jalan keluar"
+title: langkahdatuak
+email: langkahdatuak@gmail.com
+url: https://fajrialbiruni.github.io
+description: "INVESTASI SYARIAH TANDAN BUAH SEGAR (TBS) SAWIT TANPA RIBA!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,20 +10,20 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Aksesboentu
+footer: langkahdatuak
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/
+    url: tter.com/fajrialbiruni
   - title: facebook
-    url: https://facebook.com/
+    url: https://facebook.com/fajri16
   - title: stack-overflow
     url: http://stackoverflow.com/
   - title: bitbucket
     url: http://bitbucket.org/
   - title: github
-    url: https://egiilhamelnusa.github.io
+    url: https://fajrialbiruni.github.io
 
 # Build settings
 markdown: kramdown
